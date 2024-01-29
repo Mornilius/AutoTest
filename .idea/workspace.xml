@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74538b99-857e-4bb7-82f9-2acbebbc65c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/CatalogMenuPhoneAndGadgetsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/CatalogOfProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/DefaultUsingConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/DefaultUsingMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/DriverUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/PageTest/CatalogMenuPhoneAndGadgetsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/PageTest/CatalogOfProductPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/PageTest/MainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/Utils/MassageConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/resources/Config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.CatalogMenuPhoneAndGadgetsPageTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CatalogMenuPhoneAndGadgetsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageTest" />
+      <option name="MAIN_CLASS_NAME" value="PageTest.CatalogMenuPhoneAndGadgetsPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CatalogMenuPhoneAndGadgetsPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74538b99-857e-4bb7-82f9-2acbebbc65c2" name="Changes" comment="" />
+      <created>1706531890535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706531890535</updated>
+    </task>
+    <servers />
+  </component>
+</project>

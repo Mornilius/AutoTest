@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="H:/Programming/AutoTest">
+        <classes>
+            <class name="PageTest.MainPageTest">
+                <methods>
+                    <include name="checkOpenSite"/>
+                    <include name="findAndAddToShoppingCart"/>
+                    <include name="checkClickableElementOnTopBar"/>
+                </methods>
+            </class>
+            <class name="PageTest.CatalogOfProductPageTest">
+                <methods>
+                    <include name="checkCatalogOfProduct"/>
+                </methods>
+            </class>
+            <class name="PageTest.CatalogMenuPhoneAndGadgetsPageTest">
+                <methods>
+                    <include name="checkElemetsIsDisplay"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
